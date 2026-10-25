@@ -1,0 +1,6 @@
+{
+  "name": "Space Journey Portfolio",
+  "description": "An interactive 3D developer portfolio where visitors travel through a procedural galaxy of planets representing Hero, About, Skills, Projects, and Contact sections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
